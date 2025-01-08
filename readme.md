@@ -6,6 +6,11 @@
 * https://sjobefalsforeningen.se/sites/default/files/2024-02/2024-lon-och-ersattningar-styrman-hamnbogseringsavtalet-.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2024-02/lonetrariffer-maskinbefal-hamnbogsering-2024-storsjo.pdf
 
+## Europaavtalet
+
+* https://sjobefalsforeningen.se/avtal-lonebilagor/europaavtal
+* https://sjobefalsforeningen.se/sites/default/files/2023-05/avtalsmall-fartygsbefal.pdf
+
 ## Räddningstjänst i Beredskap
 
 * https://skr.se/skr/arbetsgivarekollektivavtal/kollektivavtal/lonekollektivavtalvidsidanavhok/lonekollektivavtalvidsidanavhok/ribavtalforraddningstjanstpersonaliberedskap.47658.html
