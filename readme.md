@@ -28,3 +28,8 @@
 * https://sjobefalsforeningen.se/avtal-lonebilagor/tap-avtalet
 * https://sjobefalsforeningen.se/sites/default/files/2024-09/tap-avtal-filippinerna-2024-25-sbf.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2024-09/lonetabla-amosup-sbf-2024.pdf
+
+## Väg- och Banavtalet
+
+* https://www.seko.se/avtal/sekos-avtalsomraden/vag-och-ban/aktuella-avtal/
+* https://www.seko.se/siteassets/pdf-seko.se/avtal/avtal-2024/vag-och-ban/ferieloner-2024.pdf
