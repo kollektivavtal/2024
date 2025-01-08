@@ -17,3 +17,9 @@
 * https://sjobefalsforeningen.se/sites/default/files/2024-02/2024-special-lonetariffer-vissa-overstyrman.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2023-05/lon-och-ersattning-maskinbefal-storsjo-2024.pdf
 * https://sjobefalsforeningen.se/sites/default/files/2024-02/2024-intendenturbefal-lon-och-ersattning.pdf
+
+## TAP-avtalet
+
+* https://sjobefalsforeningen.se/avtal-lonebilagor/tap-avtalet
+* https://sjobefalsforeningen.se/sites/default/files/2024-09/tap-avtal-filippinerna-2024-25-sbf.pdf
+* https://sjobefalsforeningen.se/sites/default/files/2024-09/lonetabla-amosup-sbf-2024.pdf
