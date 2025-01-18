@@ -1,5 +1,10 @@
 # Kollektivavtalsarkivet 2024
 
+## Almega Revisions Och Konsultavtalet
+
+* https://www.unionen.se/kollektivavtal/almega-tjansteforetagen-revisions-och-konsultavtalet
+* https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/tjansteforetagen_revisions_konsultforetagen/
+
 ## Bogseravtalen
 
 * https://sjobefalsforeningen.se/avtal-lonebilagor/bogseravtalen
