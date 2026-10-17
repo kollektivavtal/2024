@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: kollektivavtal/autoindex@v79
+      - uses: kollektivavtal/autoindex@v80
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           year: ${{ github.event.repository.name }}
